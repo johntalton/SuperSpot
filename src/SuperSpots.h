@@ -1,4 +1,8 @@
+#ifndef MY_SAVER
+#define MY_SAVER
 #include <ScreenSaver.h>
+
+#include <Locker.h>
 
 class BSlider;
 class MinimalSaver : public BScreenSaver, public BLocker {  
@@ -14,9 +18,6 @@ public:
    void Draw( BView *view, int32 frame ); 
    void StopSaver(void);
    
-private:
-   friend class MySSConfigPanel;   
-
    rgb_color colorBase1;
    rgb_color colorBase2;
    rgb_color colorCurr1;
@@ -32,3 +33,4 @@ private:
    int32 AlphaAmount;
 
 }; 
+#endif

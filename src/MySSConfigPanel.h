@@ -1,3 +1,5 @@
+#ifndef MY_CONFIG
+#define MY_CONFIG
 #include <View.h>
 
 class MinimalSaver;
@@ -24,3 +26,4 @@ private:
    BMenuItem *item;
    uint32 window_flags;
 };
+#endif
