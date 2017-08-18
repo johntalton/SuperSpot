@@ -2,21 +2,16 @@
 
 SuperSpots4.0
 
-Ok .. everyone loves screensavers, So, Here is another one.  It was my first Saver so be nice!   It is a advancment of the stander spots screensaver  .. some of the feature that are my fav. are the random size and alpha.  So let me know what you think.
+Ok .. everyone loves screensavers, So, Here is another one.  It was my first Saver so be nice!   It is a advancement of the stander spots screensaver  .. some of the feature that are my fav. are the random size and alpha.  So let me know what you think.
 
-Ver 4.5.1:
-	Fix small errors
-Ver 4.5:
-	Fav menu. Some stuff
-Ver 4:
-	Option to blank screen first
-	Included Funky Spots by Fred Ferrigno option.
-		Fred Ferrigno (sn0re on EFNet, #beos and #bedev)
-		ferrigno@lightspeed.net
-		http://pheerage.hypermart.net
-Ver 3:
-	Everything
+
+| Version | Description |
+|---------|-------------|
+| 4.5.1   | Fix small errors 
+| 4.5     | Fav menu. Some stuff
+| 4       | Option to blank screen first<br />Included Funky Spots by Fred Ferrigno option.<br />Fred Ferrigno (sn0re on EFNet, #beos and #bedev) |
+| 3       | Everything
+
 
 YNOP
-ynop@acm.org  
 TheAbstractCompany
